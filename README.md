@@ -1,2 +1,2 @@
-# issues.linq2db.sqlite.datetimeformat
-A issue with the format of datetime in sqlite
+# Example.linq2db.sqlite.datetimeformat
+An Linq2db example of converting data while writing to DB.
